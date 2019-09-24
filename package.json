@@ -1,0 +1,16 @@
+{
+  "name": "mern-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server/bin/www.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"main": "server/bin/www.js",
+  "author": "Ramvignesh Pasupathy",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
